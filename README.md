@@ -53,7 +53,7 @@ This is useful for scenarios such as:
    ```
 
 ## ⚙️Optional:
-- **Add to Environment Variables: **
+### Add to Environment Variables:
 _If you want to run it anywhere you need to add the script directory in the environment variables_
   1. Search environmenet variable in windows search and click _Edit the system environment variables_.
   2. Click environment variables.
